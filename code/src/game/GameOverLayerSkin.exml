@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameOverLayerSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" top="0" right="0" bottom="0" x="0" y="0" scaleX="1" scaleY="1"/>
+	<e:Label id="topNumLabel" text="100" y="128" size="100" bold="true" horizontalCenter="205.5" textColor="0x1bf1d9"/>
+	<e:Label id="curNumLabel" text="100" y="415" size="100" bold="true" horizontalCenter="0" textColor="0x1BF1D9" x="320"/>
+	<e:Image source="cup_png" x="331" y="130"/>
+	<w:Config id="15805737dab"/>
+</e:Skin>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameSceneSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="157fe9a1d97"/>
+	<e:Rect id="bg" right="0" left="0" top="0" bottom="0" fillAlpha="1" fillColor="0x000000"/>
+	<e:Rect id="cell00" width="200" height="200" x="12" y="196"/>
+	<e:Rect id="cell01" width="200" height="200" x="218" y="196"/>
+	<e:Rect id="cell02" width="200" height="200" x="424" y="196" scaleX="1" scaleY="1"/>
+	<e:Rect id="cell20" width="200" height="200" x="12" y="616"/>
+	<e:Rect id="cell21" width="200" height="200" x="218" y="616"/>
+	<e:Rect id="cell22" width="200" height="200" x="424" y="616" scaleX="1" scaleY="1" fillColor="0x000000"/>
+	<e:Rect id="cell10" width="200" height="200" x="12" y="404"/>
+	<e:Rect id="cell11" width="200" height="200" x="218" y="404"/>
+	<e:Rect id="cell12" width="200" height="200" x="424" y="404" scaleX="1" scaleY="1"/>
+	<e:Label id="numLabel" text="0" y="39" horizontalCenter="0" size="100"/>
+</e:Skin>

@@ -1,0 +1,30 @@
+{
+	"groups": [
+		{
+			"keys": "circleTest_png,star_png,star_json,cup_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "circleTest_png",
+			"type": "image",
+			"url": "game/circleTest.png"
+		},
+		{
+			"name": "star_png",
+			"type": "image",
+			"url": "game/star.png"
+		},
+		{
+			"name": "star_json",
+			"type": "json",
+			"url": "game/star.json"
+		},
+		{
+			"name": "cup_png",
+			"type": "image",
+			"url": "game/cup.png"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="LoadingWithCircleSkin" width="960" height="540" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect fillAlpha="0.14" left="0" bottom="0" top="0" right="0"/>
+	<e:Image id="circle" anchorOffsetX="48" anchorOffsetY="45" source="Circle_png" horizontalCenter="0" verticalCenter="0"/>
+	<e:Label id="label" text="0/0" size="20" horizontalCenter="0" textColor="0xD6CFCF" verticalCenter="0"/>
+</e:Skin>
