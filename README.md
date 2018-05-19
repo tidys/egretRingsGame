@@ -5,4 +5,4 @@
 点击链接加入群【EgretGameCoders】：https://jq.qq.com/?_wv=1027&k=5UqNiZx
 
 ## 关于作者
-[点击查看]（https://github.com/tidys/CocosCreatorPlugins/blob/master/ABOUTME.md）
+[点击查看](https://github.com/tidys/CocosCreatorPlugins/blob/master/ABOUTME.md)
