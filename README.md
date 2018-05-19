@@ -3,3 +3,6 @@
 ## QQ群
 如果有任何疑问欢迎加入QQ群讨论:576700140   
 点击链接加入群【EgretGameCoders】：https://jq.qq.com/?_wv=1027&k=5UqNiZx
+
+## 关于作者
+[点击查看]（https://github.com/tidys/CocosCreatorPlugins/blob/master/ABOUTME.md）
